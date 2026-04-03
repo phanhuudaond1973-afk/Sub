@@ -55,5 +55,8 @@
 		"email": "toan.vp98.wapmaster@gmail.com",
 		"url": "https://github.com/MrT98"
 	},
+	"engines": {
+        "node": "18.x"
+	},
 	"license": "ISC"
 }
